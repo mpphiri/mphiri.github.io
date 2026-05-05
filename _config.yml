@@ -23,7 +23,7 @@ repository               : "mphiri/mphiri.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Moses-VISA.jpg"
   name             : "Moses Patson Phiri"  
   bio              : "Ph.D. Candidate in Applied Mathematics at the University of Alabama at Birmingham. My research interests include nonlinear PDEs, fluid dynamics, turbulence, and Navier–Stokes regularity theory."
   location         : "Birmingham, AL"
