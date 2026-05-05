@@ -8,15 +8,15 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default"
 title                    : "Moses Patson Phiri"
 title_separator          : "-"
 name                     : "Moses Patson Phiri"
-description              : &description "Ph.D. Candidate in Applied Mathematics at the University of Alabama at Birmingham"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://mpphiri.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : " " # the subpath of your site, e.g. "/blog"
+description              : &description "Ph.D. Candidate in Applied Mathematics at the University of Alabama at Birmingham"
+url                      : "https://mpphiri.github.io"
+baseurl                  : ""
 repository               : "mpphiri/mpphiri.github.io"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,7 +28,7 @@ author:
   bio              : "Ph.D. Candidate in Applied Mathematics at the University of Alabama at Birmingham. My research interests include nonlinear PDEs, fluid dynamics, turbulence, and Navier–Stokes regularity theory."
   location         : "Birmingham, AL"
   employer         : "University of Alabama at Birmingham"
-  uri              : "mpphiri"
+  uri              : "https://mpphiri.github.io"
   email            : "mpphiri@uab.edu" 
 
   # Academic websites
@@ -153,7 +153,8 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               : false
+  
   google:
     tracking_id          :
 
