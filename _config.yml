@@ -13,10 +13,10 @@ title                    : "Moses Patson Phiri"
 title_separator          : "-"
 name                     : "Moses Patson Phiri"
 description              : &description "Ph.D. Candidate in Applied Mathematics at the University of Alabama at Birmingham"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://mphiri.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://mpphiri.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : " " # the subpath of your site, e.g. "/blog"
-repository               : "mphiri/mphiri.github.io"
+repository               : "mpphiri/mpphiri.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,7 +28,7 @@ author:
   bio              : "Ph.D. Candidate in Applied Mathematics at the University of Alabama at Birmingham. My research interests include nonlinear PDEs, fluid dynamics, turbulence, and Navier–Stokes regularity theory."
   location         : "Birmingham, AL"
   employer         : "University of Alabama at Birmingham"
-  uri              : "mphiri"
+  uri              : "mpphiri"
   email            : "mpphiri@uab.edu" 
 
   # Academic websites
@@ -50,7 +50,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "mphiri"
+  github           : "mpphiri"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
