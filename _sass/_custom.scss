@@ -1,0 +1,36 @@
+.initial-content {
+  min-height: 850px;
+}
+
+.archive,
+.page {
+  min-height: 850px;
+}
+
+.page__footer {
+  position: static !important;
+  clear: both;
+  margin-top: 3em;
+}
+
+.page__footer footer {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+/* Hide footer links such as Sitemap, Follow, GitHub, Feed */
+.page__footer-follow {
+  display: none !important;
+}
+
+/* Hide any accidental footer heading */
+.page__footer h1,
+.page__footer h2,
+.page__footer h3,
+.page__footer .page__title {
+  display: none !important;
+}
+
+.page__footer-copyright {
+  font-size: 0.8em;
+}
