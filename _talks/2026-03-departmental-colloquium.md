@@ -4,7 +4,7 @@ collection: talks
 type: "Departmental Colloquium"
 permalink: /talks/uab-departmental-colloquium-2026
 venue: "Department of Mathematics, The University of Alabama at Birmingham"
-date: 2026-03-01
+date: 2026-03-20
 location: "Birmingham, Alabama"
 ---
 
