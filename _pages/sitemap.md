@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Sitemap"
+title: ""
 permalink: /sitemap/
-author_profile: true
+author_profile: false
 ---
 
 ## Main Pages
